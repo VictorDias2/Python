@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aebe5c9-af07-4a88-b33b-1bb55babcbf9" name="Alterações" comment="">
-      <change afterPath="$PROJECT_DIR$/Uninter/Aula4/Exercicio06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uninter/Aula4/Exercicio07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uninter/Aula4/Exercicio08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uninter/Aula4/Exercicio09.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +42,7 @@
     "Python.Exercicio04.executor": "Run",
     "Python.Exercicio05.executor": "Run",
     "Python.Exercicio06.executor": "Run",
+    "Python.Exercicio07.executor": "Run",
     "Python.Exercicio08.executor": "Run",
     "Python.Exercicio09.executor": "Run",
     "Python.Exercicio10.executor": "Run",
