@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aebe5c9-af07-4a88-b33b-1bb55babcbf9" name="Alterações" comment="">
-      <change afterPath="$PROJECT_DIR$/Uninter/Aula05/Exercicio01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uninter/Aula05/Exercicio02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uninter/Aula05/Exercicio03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uninter/Aula05/Exercicio04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uninter/Atividade/Questao1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uninter/Atividade/Questao2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uninter/Atividade/Questao3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uninter/Aula05/Exercicio05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,25 +34,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Exercicio01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio11.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Exercicio01.executor": "Run",
+    "Python.Exercicio02.executor": "Run",
+    "Python.Exercicio03.executor": "Run",
+    "Python.Exercicio04.executor": "Run",
+    "Python.Exercicio05.executor": "Run",
+    "Python.Exercicio06.executor": "Run",
+    "Python.Exercicio07.executor": "Run",
+    "Python.Exercicio08.executor": "Run",
+    "Python.Exercicio09.executor": "Run",
+    "Python.Exercicio10.executor": "Run",
+    "Python.Exercicio11.executor": "Run",
+    "Python.Questao3.executor": "Run",
+    "Python.Questão1.executor": "Run",
+    "Python.Questão2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
