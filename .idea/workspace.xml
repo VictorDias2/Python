@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aebe5c9-af07-4a88-b33b-1bb55babcbf9" name="Alterações" comment="">
-      <change afterPath="$PROJECT_DIR$/Uninter/Atividade/Questão4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uninter/Aula6/Exercicio01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uninter/Aula6/Exercicio02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninter/Atividade/Questao3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninter/Atividade/Questao3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninter/Aula05/Exercicio01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninter/Aula5/Exercicio01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninter/Aula05/Exercicio02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninter/Aula5/Exercicio02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninter/Aula05/Exercicio03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninter/Aula5/Exercicio03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninter/Aula05/Exercicio04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninter/Aula5/Exercicio04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninter/Aula05/Exercicio05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninter/Aula5/Exercicio05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninter/Aula05/Exercicio06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninter/Aula5/Exercicio06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninter/Aula05/Exercicio07.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninter/Aula5/Exercicio07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninter/Aula05/Exercicio08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninter/Aula5/Exercicio08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninter/Aula05/Exercicio09.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninter/Aula5/Exercicio09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninter/Aula05/Exercicio10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninter/Aula5/Exercicio10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninter/Aula05/Exercicio11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninter/Aula5/Exercicio11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninter/Aula05/Exercicio12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninter/Aula5/Exercicio12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninter/Aula05/Exercicio13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninter/Aula5/Exercicio13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +56,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Exercicio01">
+  <component name="RunManager" selected="Python.Exercicio02">
     <configuration name="Exercicio01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -86,6 +71,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Uninter/Aula6/Exercicio01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercicio02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Uninter/Aula6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Uninter/Aula6/Exercicio02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,6 +147,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercicio02" />
         <item itemvalue="Python.Exercicio01" />
         <item itemvalue="Python.Questao3" />
         <item itemvalue="Python.Questao2" />
