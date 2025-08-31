@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aebe5c9-af07-4a88-b33b-1bb55babcbf9" name="Alterações" comment="">
-      <change afterPath="$PROJECT_DIR$/Uninter/Aula6/Exercicio02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula6/Exercicio03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula6/Exercicio04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula6/Exercicio05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula6/Exercicio06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula6/Exercicio07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula6/Exercicio08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula6/Exercicio09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula6/Exercicio10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula6/Exercicio11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula6/Exercicio12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula6/Exercicio13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas/Atividade/Questão4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/Atividade/Questão4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,33 +42,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Exercicio01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Questao2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Questao3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Questão1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Questão2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.04.executor": "Run",
+    "Python.Exercicio01.executor": "Run",
+    "Python.Exercicio02.executor": "Run",
+    "Python.Exercicio03.executor": "Run",
+    "Python.Exercicio04.executor": "Run",
+    "Python.Exercicio05.executor": "Run",
+    "Python.Exercicio06.executor": "Run",
+    "Python.Exercicio07.executor": "Run",
+    "Python.Exercicio08.executor": "Run",
+    "Python.Exercicio09.executor": "Run",
+    "Python.Exercicio10.executor": "Run",
+    "Python.Exercicio11.executor": "Run",
+    "Python.Exercicio12.executor": "Run",
+    "Python.Exercicio13.executor": "Run",
+    "Python.Questao1.executor": "Run",
+    "Python.Questao2.executor": "Run",
+    "Python.Questao3.executor": "Run",
+    "Python.Questão1.executor": "Run",
+    "Python.Questão2.executor": "Run",
+    "Python.Questão4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RunManager" selected="Python.Exercicio02">
-    <configuration name="Exercicio01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.Questão4">
+    <configuration name="Exercicio10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Uninter/Aula6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas/Aula6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Uninter/Aula6/Exercicio01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas/Aula6/Exercicio10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Uninter/Aula6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas/Aula6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Uninter/Aula6/Exercicio02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas/Aula6/Exercicio11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Questao2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Uninter/Atividade" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas/Aula6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Uninter/Atividade/Questao2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas/Aula6/Exercicio12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Questao3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,11 +146,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Uninter/Atividade" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas/Aula6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Uninter/Atividade/Questao3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas/Aula6/Exercicio13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Questão4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas/Atividade" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas/Atividade/Questão4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,10 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercicio02" />
-        <item itemvalue="Python.Exercicio01" />
-        <item itemvalue="Python.Questao3" />
-        <item itemvalue="Python.Questao2" />
+        <item itemvalue="Python.Questão4" />
+        <item itemvalue="Python.Exercicio13" />
+        <item itemvalue="Python.Exercicio12" />
+        <item itemvalue="Python.Exercicio11" />
+        <item itemvalue="Python.Exercicio10" />
       </list>
     </recent_temporary>
   </component>
